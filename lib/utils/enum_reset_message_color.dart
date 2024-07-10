@@ -1,0 +1,4 @@
+enum ResetMessageColor {
+  red, 
+  green,
+  }

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "855531439910",
+    "firebase_url": "https://reports-app-flutter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reports-app-flutter",
+    "storage_bucket": "reports-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855531439910:android:b2454a53c662c1cb3123e7",
+        "android_client_info": {
+          "package_name": "com.example.reports"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
