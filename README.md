@@ -2,7 +2,7 @@
 
 ### Based on a university project
 
-Reports is an application written in flutter/dart that allows you to register a user and insert a report that will be saved remotely on Firebase.
+Reports is an application written in ```flutter```/```dart``` that allows you to register a user and insert a report that will be saved remotely on Firebase.
 It is also possible through an Admin account to manage registered users, block them or delete their reports.
 
 Normal users can view all reports from unblocked users but are only able to delete reports they created themselves.
