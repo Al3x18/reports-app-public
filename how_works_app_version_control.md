@@ -19,6 +19,6 @@ Obviously the application download is only available in ```.apk``` format for An
 
 If you try to launch the download on an iPhone, a ```SnackBar``` displays a warning informing the user that the download is only available on Android devices.
 
-<div>
-    <img src="./sample-screenshot/alert-sample.png" alt="Sample screenshots" width="100%">
+<div style="text-align: center;">
+    <img src="./sample-screenshot/alert-sample.png" alt="Sample screenshots" width="50%">
 </div>
