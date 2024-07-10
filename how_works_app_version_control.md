@@ -1,7 +1,7 @@
 # How app_version_control.dart works
 
 The application is not available on the App Store and Play Store so use ```app_version_control.dart``` to check the minimum version required to use the app and the latest version available.
-The code checks a ```.json``` file saved on a private repo on gitHub structured like this:
+The code checks a ```.json``` file saved on a private repo on GitHub structured like this:
 
 ```json
 {
