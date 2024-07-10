@@ -1,5 +1,7 @@
 # Reports App
 
+### Based on a university project
+
 Reports is an application written in flutter/dart that allows you to register a user and insert a report that will be saved remotely on Firebase.
 It is also possible through an Admin account to manage registered users, block them or delete their reports.
 
@@ -7,7 +9,7 @@ Normal users can view all reports from unblocked users but are only able to dele
 
 Each report has an author, a place, a description, a date and the possibility of adding a photo from camera or library.
 
-### Info
+## Info
 Some files such as firebase_options.dart or app_version_control.dart are not included or have been modified to hide sensitive information such as apiKeys or tokens.
 
 [How works ```app_version_control.dart```](./how_works_app_version_control.md)
