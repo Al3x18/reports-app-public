@@ -13,6 +13,6 @@ The code checks a ```.json``` file saved on a private repo on gitHub structured 
 
 If the installed version is lower than the minimum version, the application closes on iOS while on Android it allows you to open the download link for the latest version in the browser.
 
-```app_version_control.dart``` ha una funzione che confronta la versione corrente con l'ultima versione disponibile (```checkAppVersion```) e un altra funzione (```downloadNewVersion```) che permette di aggiornare l'app all'ultima versione.
+```app_version_control.dart``` has a function that compares the current version with the latest available version (```checkAppVersion```) and another function (```downloadNewVersion```) that allows you to update the 'app to the latest version.
 
 Obviously the application download is only available in .apk format for Android as on iPhone it is not possible to install applications outside the App Store.
