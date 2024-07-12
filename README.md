@@ -12,7 +12,7 @@ Each report has an author, a place, a description, a date and the possibility of
 ## Info
 Some files such as ```firebase_options.dart``` or ```app_version_control.dart``` are not included or have been modified to hide sensitive information such as apiKeys or tokens.
 
-Check [How ```app_version_control.dart``` works](./how_works_app_version_control.md) for more info.
+Check [How ```app_version_control.dart``` works](./AVC_DOCS.md) for more info.
 
 ## Sample app screenshots
 
